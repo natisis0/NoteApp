@@ -60,7 +60,7 @@
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/natisis0/NoteApp.git
 cd starting-project
 
 # Install dependencies
